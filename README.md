@@ -1,4 +1,3 @@
-
 # HighPerformance-CommScaffold
 
 欢迎来到 **HighPerformance-CommScaffold** 项目！这是一个高性能的通用服务器脚手架，设计用于处理高并发、低延迟的网络服务。该项目借鉴了 Nginx 的 Master-Worker 多进程模型，结合事件驱动机制、线程池和连接池，旨在为开发者提供一个高效、稳定的网络通讯基础框架。
